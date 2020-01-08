@@ -1,5 +1,6 @@
 # Keras Car Avoid
 
+Fun example of the car learning some moves early in the training process.
 ![](media/keras-car.gif)
 
 ## What is this?
