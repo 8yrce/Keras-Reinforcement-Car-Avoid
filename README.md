@@ -1,5 +1,7 @@
 # Keras Car Avoid
 
+![](media/keras_car.gif)
+
 ## What is this?
 As a fun project in reinforcement learning, I decided to take a cool pixel car I found and make it smart enough to avoid oncoming obstacles. To do this I made a rough version of an openai gym type environment with pygame and set to work modifying a Keras DQN reinforcement learning example to fit the task. 
 
